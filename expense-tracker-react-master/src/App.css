@@ -7,6 +7,27 @@
 * {
   box-sizing: border-box;
 }
+#moneymanager
+{
+  font-size: 30px;
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  text-align: center;
+  padding: 15px;
+  background-color: rgb(192, 178, 255);
+  border-radius: 10px;
+  border: 2px black solid;
+  box-shadow: var(--box-shadow);
+
+}
+.broad
+{
+  background-color: rgb(233, 233, 233);
+  padding: 20px;
+  padding-top: 5px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
 
 body {
   background-color: #f7f7f7;
@@ -155,3 +176,4 @@ input[type='number'] {
     width: 300px;
   }
 }
+
