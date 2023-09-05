@@ -17,7 +17,7 @@ My apologies for the oversight. Since you're using an Express.js server for the 
 
 Expense Tracker is a web application for managing your personal finances. It helps you keep track of your income and expenses, providing valuable insights into your spending habits. This project is built using React for the front end and Express.js for the back end with MongoDB as the database.
 
-screen shot
+![money manager](https://github.com/ChochuBaba/moneymanager/assets/78496518/41eacb21-3a6f-48eb-a13c-30eb8e580e7c)
 
 ## Features
 
